@@ -1,29 +1,19 @@
 # Will you be my valentine?
 
-Valentine Page Creator: https://i143.xyz/create
+Credits : saurabhnemade
 
-Demo : https://saurabhnemade.github.io/will-you-be-my-valentine/
+Demo : <https://ameu00.github.io/will-you-be-my-valentine/>
 
-This is a fun project for valentines day to bring smile on face of your special person!!
+## How to start
 
-This project is inspired from
-https://gist.github.com/tnarla/0c09a11fea366145ba684fe6ebf578c5 & https://www.tiktok.com/@mewtru/video/7331131143112166698
-
-# How to start
-```
+```bash
 npm install -g pnpm
 pnpm i
 pnpm run dev
 ```
 
-# Preview
+## How to deploy it
 
-![image description](demo.gif)
-
-
-# How to deploy it
-```
+```bash
 pnpm run deploy
 ```
-
-Made with ❤️ in Berlin!
